@@ -43,10 +43,10 @@
       color: #00ffa7;
       text-align: center;
       z-index: 5;
-      padding: 20px;
+      padding: 10px;
       border-radius: 10px;
-      font-size: 30px;
-      line-height: 70px;
+      font-size: 20px;
+      line-height: 30px;
       display: block;
   }
 
@@ -72,7 +72,7 @@
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
-      text-align: center;
+      
       display: none;
   }
 
